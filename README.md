@@ -6,4 +6,4 @@ This project is a simple web application that features both an analog and a digi
 It provides a visual representation of the current time using an analog clock with hour,minutes and seconds hands.
 The digital clock is in 24h format : HH:MM:SS
 <h2>Live Demo</h2>
-<a href="#">Click here for live demo</a>
+<a href="https://ghanoubrk.github.io/analog-and-digital-clock/">Click here for live demo</a>
